@@ -1,0 +1,75 @@
+C:\Users\abdullah\source\repos\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.deps.json
+C:\Users\abdullah\source\repos\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\abdullah\source\repos\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\abdullah\source\repos\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.dll
+C:\Users\abdullah\source\repos\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.pdb
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfoInputs.cache
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfo.cs
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\Invoice..DC3D06BC.Up2Date
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\refint\Invoice.Repositories.dll
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\abdullah\source\repos\Invoice.Repositories\obj\Debug\net8.0\ref\Invoice.Repositories.dll
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.deps.json
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.dll
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.pdb
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfoInputs.cache
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfo.cs
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\Invoice..DC3D06BC.Up2Date
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\refint\Invoice.Repositories.dll
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\abdullah\source\repos\InvoiceApp\Invoice.Repositories\obj\Debug\net8.0\ref\Invoice.Repositories.dll
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.AssemblyReference.cache
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfoInputs.cache
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfo.cs
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.deps.json
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.dll
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.pdb
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.CopyComplete
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\refint\Invoice.Repositories.dll
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\T A R G E T\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\ref\Invoice.Repositories.dll
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.deps.json
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.dll
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.pdb
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.AssemblyReference.cache
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfoInputs.cache
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfo.cs
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice..DC3D06BC.Up2Date
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\refint\Invoice.Repositories.dll
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\abdullah\Desktop\invoice-App\Invoice.Repositories\obj\Debug\net8.0\ref\Invoice.Repositories.dll
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.deps.json
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.dll
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\bin\Debug\net8.0\Invoice.Data.pdb
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.AssemblyReference.cache
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfoInputs.cache
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.AssemblyInfo.cs
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.csproj.CopyComplete
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.dll
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\refint\Invoice.Repositories.dll
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\Invoice.Repositories.pdb
+C:\Users\T A R G E T\Desktop\sc\invoice-App\Invoice.Repositories\obj\Debug\net8.0\ref\Invoice.Repositories.dll
